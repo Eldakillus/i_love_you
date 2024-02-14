@@ -9,8 +9,8 @@ body, html {
 }
 
 .container {
-    width: 400px; /* Ширина контейнера */
-    height: 400px; /* Высота контейнера */
+    width: 350px; /* Ширина контейнера */
+    height: 350px; /* Высота контейнера */
     perspective: 1000px;
     cursor: pointer;
 }
